@@ -1,2 +1,7 @@
-# Cyber-security-research-
-Technical documentation, network, security tools, and offensive security research in preparation for CEH v13, GICSP and OSCP certifications
+# Cyber Security Research
+This repository serves as my technical lab notebook for offensive security and industrial control systems.
+
+### Focus Areas:
+* **Certifications:** Preparing for CEH v13 and GICSP.
+* **Labs:** Network reconnaissance, port scanning, and vulnerability analysis.
+* **Tools:** Kali Linux, Nmap, Metasploit.
